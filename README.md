@@ -157,7 +157,7 @@ plt.show()
 
 <img width="617" height="401" alt="image" src="https://github.com/user-attachments/assets/8f269e6c-a1c6-40a5-8fe9-bdc11c9221a2" />
 
-##  Result
+#  Result
 
 Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.
 
